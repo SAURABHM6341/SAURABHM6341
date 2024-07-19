@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAURABHM6341
+- 👋 Hi, I’m Saurabh Mishra.
 - 👀 I’m interested in full stack web development and and software development
 - 🌱 I’m currently learning C++ and react and also doing competetive programming.
 - 💞️ I’m looking to collaborate on web dev project and seeking for the oppurtunities in software development
