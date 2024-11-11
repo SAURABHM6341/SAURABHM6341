@@ -5,12 +5,52 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhm6341" alt="saurabhm6341" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at (coming soon...)
 
 - 📫 How to reach me **saurabhmishra6341@gmail.com**
 
-- 📄 Know about my experiences [coming soon...](coming soon...)
+- 📄 Know about my experiences (coming soon...)
 
+<h3 align = "center">Badges and Achievements</h3>
+<p align = "center">
+<table>
+  <tr>
+    <th>Badge</th>
+    <th>Event</th>
+    <th>Achievement</th>
+  </tr>
+  <tr>
+    <td><img src="./adventurer_badge.png" alt="Badge 1" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>Adventurer Badge</td>
+  </tr>
+  <tr>
+    <td><img src="./champion_badge.png" alt="Badge 2" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>Champion Badge</td>
+  </tr>
+  <tr>
+    <td><img src="./Share Badge (1).png" alt="Badge 3" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>Explorer Badge</td>
+  </tr>
+  <tr>
+    <td><img src="./trailblazer_bagde.png" alt="Badge 4" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>TrailBlazer Badge</td>
+  </tr>
+  <tr>
+    <td><img src="./summit_badge.png" alt="Badge 4" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>Summit Seeker Badge</td>
+  </tr>
+  <tr>
+    <td><img src="./postman_badge.png" alt="Badge 4" width="50"></td>
+    <td>GSSoc Extended 2024</td>
+    <td>Postman Badge</td>
+  </tr>
+</table>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-mishra-57b08128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-mishra-57b08128b/" height="30" width="40" /></a>
