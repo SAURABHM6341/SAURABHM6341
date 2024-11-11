@@ -16,38 +16,14 @@
 <table>
   <tr>
     <th>Badge</th>
-    <th>Event</th>
-    <th>Achievement</th>
   </tr>
   <tr>
-    <td><img src="./adventurer_badge.png" alt="Badge 1" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>Adventurer Badge</td>
-  </tr>
-  <tr>
-    <td><img src="./champion_badge.png" alt="Badge 2" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>Champion Badge</td>
-  </tr>
-  <tr>
-    <td><img src="./Share Badge (1).png" alt="Badge 3" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>Explorer Badge</td>
-  </tr>
-  <tr>
-    <td><img src="./trailblazer_bagde.png" alt="Badge 4" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>TrailBlazer Badge</td>
-  </tr>
-  <tr>
-    <td><img src="./summit_badge.png" alt="Badge 4" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>Summit Seeker Badge</td>
-  </tr>
-  <tr>
-    <td><img src="./postman_badge.png" alt="Badge 4" width="80" height = "70"></td>
-    <td>GSSoc Extended 2024</td>
-    <td>Postman Badge</td>
+    <td><img src="./adventurer_badge.png" alt="Badge 1" width="100" height = "100"></td>
+    <td><img src="./champion_badge.png" alt="Badge 2" width="100" height = "100"></td>
+    <td><img src="./Share Badge (1).png" alt="Badge 3" width="100" height = "100"></td>
+    </tr><tr><td><img src="./trailblazer_bagde.png" alt="Badge 4" width="100" height = "100"></td>
+    <td><img src="./summit_badge.png" alt="Badge 4" width="100" height = "100"></td>
+    <td><img src="./postman_badge.png" alt="Badge 4" width="100" height = "100"></td>
   </tr>
 </table>
 </div>
