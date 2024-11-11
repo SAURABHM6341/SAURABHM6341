@@ -15,15 +15,12 @@
 <div align = "center">
 <table>
   <tr>
-    <th>Badge</th>
-  </tr>
-  <tr>
-    <td><img src="./adventurer_badge.png" alt="Badge 1" width="100" height = "100"></td>
-    <td><img src="./champion_badge.png" alt="Badge 2" width="100" height = "100"></td>
-    <td><img src="./Share Badge (1).png" alt="Badge 3" width="100" height = "100"></td>
-    </tr><tr><td><img src="./trailblazer_bagde.png" alt="Badge 4" width="100" height = "100"></td>
-    <td><img src="./summit_badge.png" alt="Badge 4" width="100" height = "100"></td>
-    <td><img src="./postman_badge.png" alt="Badge 4" width="100" height = "100"></td>
+    <td><img src="./adventurer_badge.png" alt="Badge 1" width="200" height = "200"></td>
+    <td><img src="./champion_badge.png" alt="Badge 2" width="200" height = "200"></td>
+    <td><img src="./Share Badge (1).png" alt="Badge 3" width="200" height = "200"></td>
+    </tr><tr><td><img src="./trailblazer_bagde.png" alt="Badge 4" width="200" height = "200"></td>
+    <td><img src="./summit_badge.png" alt="Badge 4" width="200" height = "200"></td>
+    <td><img src="./postman_badge.png" alt="Badge 4" width="200" height = "200"></td>
   </tr>
 </table>
 </div>
