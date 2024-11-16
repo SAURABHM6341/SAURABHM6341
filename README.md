@@ -12,17 +12,10 @@
 - 📄 Know about my experiences (coming soon...)
 
 <h2 align = "center">Badges and Achievements</h2>
+
 <div align = "center">
-<table>
-  <tr>
-    <td><img src="./adventurer_badge.png" alt="Badge 1" width="300" height = "300"></td>
-    <td><img src="./champion_badge.png" alt="Badge 2" width="300" height = "300"></td>
-    <td><img src="./Share Badge (1).png" alt="Badge 3" width="300" height = "300"></td>
-    </tr><tr><td><img src="./trailblazer_bagde.png" alt="Badge 4" width="300" height = "300"></td>
-    <td><img src="./summit_badge.png" alt="Badge 4" width="300" height = "300"></td>
-    <td><img src="./postman_badge.png" alt="Badge 4" width="300" height = "300"></td>
-  </tr>
-</table>
+  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+    <img src="https://gssoc-dymanic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="Badge 1" width="1440" height = "260">
 </div>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
