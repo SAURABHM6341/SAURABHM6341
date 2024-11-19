@@ -15,7 +15,7 @@
 
 <div align = "center">
   <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-    <img src="https://gssoc-dymanic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="Badge 1" width="1440" height = "260">
+    <img src="https://gssoc-dymanic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="Badge 1" width="1440" height = "240">
 </div>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
