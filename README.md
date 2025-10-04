@@ -111,7 +111,7 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
   <details open>
     <summary><strong>GirlScript Summer of Code '24 Contributor</strong></summary>
     <br>
-    <img src="https://gssoc-dymanic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="GSSOC '24 Badge"/>
+    <img src="https://gssoc-dynamic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="GSSOC '24 Badge"/>
   </details>
 </div>
 
