@@ -107,13 +107,39 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
 
 ### ✨ Open Source Contributions
 
-<div align="center">
-  <details open>
-    <summary><strong>GirlScript Summer of Code '24 Contributor</strong></summary>
-    <br>
-    <img src="https://gssoc-dynamic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="GSSOC '24 Badge"/>
-  </details>
-</div>
+#### 🎖️ Hacktoberfest 2025 Badges  
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg9phtbs0005jr04y57k0zvz" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/4ba90d55-ec03-474e-ad96-6bdb6074c002" alt="Hacktoberfest 2025 — Registration Badge" height="120"/>
+    
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgki0s4200awjo04bbigpk05" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/9d96b7d0-908e-4b96-ba11-49f8c4df1489" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Click any badge to verify on the official Holopin platform.</em>
+</p>
+
+---
+
+<details open align="center">
+  <summary><strong>🌸 GirlScript Summer of Code 2024 Contributor</strong></summary>
+  <br>
+  <p align="center">
+    <img <img width="120" height="120" alt="adventurer_badge" src="https://github.com/user-attachments/assets/15e7a599-0e55-4fd1-9f36-3b2fb64b0b41" />
+    <img width="120" height="120" alt="champion_badge" src="https://github.com/user-attachments/assets/97734125-7bb4-4ff1-8459-d4273cbcd864" />
+<img width="120" height="120" alt="Postman - Postman API Fundamentals Student Expert - 2024-11-07" src="https://github.com/user-attachments/assets/72b7e8ca-a3e2-4b52-bc69-729cd641b727" />
+<img width="120" height="120" alt="postman_badge" src="https://github.com/user-attachments/assets/115222f6-3d8b-4d2b-a508-b6291d3ff85b" />
+<img width="120" height="120" alt="Share Badge (1)" src="https://github.com/user-attachments/assets/fdc147ac-6137-4a76-b04e-52e2e8f863bf" />
+<img width="120" height="120" alt="summit_badge" src="https://github.com/user-attachments/assets/98a62591-d28a-42f3-8620-bfa60001dcd6" />
+<img width="120" height="120" alt="trailblazer_bagde" src="https://github.com/user-attachments/assets/2ed506cd-462a-44d7-aa36-ad5fd0519199" />
+
+  </p>
+</details>
+
 
 ---
 
