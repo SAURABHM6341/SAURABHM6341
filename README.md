@@ -111,11 +111,14 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg9phtbs0005jr04y57k0zvz" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/4ba90d55-ec03-474e-ad96-6bdb6074c002" alt="Hacktoberfest 2025 — Registration Badge" height="120"/>
-    
   </a>
   &nbsp;&nbsp;
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgki0s4200awjo04bbigpk05" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/9d96b7d0-908e-4b96-ba11-49f8c4df1489" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgl9vryq007wl604nvnya2z0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/6fc789e3-df98-4ac6-98ae-1ad8b4dc7124" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
   </a>
 </p>
 
