@@ -120,6 +120,22 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgl9vryq007wl604nvnya2z0" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/6fc789e3-df98-4ac6-98ae-1ad8b4dc7124" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
   </a>
+   &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgmaa45p005bih04j1nq7bup" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/ed01a39d-f325-4984-8f9e-ed8642863114" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgmmvydz00p2jw04dbefdtdi" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/8773097f-3cc2-4606-9bd1-055dfbf0b97b" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgnp91js0019jl049x3am348" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/164706a6-0cff-40c5-9b57-82dbbea946dd" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
+   &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmgnp8djn0028kv049d5r5r8c" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/ffb4ce00-f415-4479-a12f-7aa3b1561e87" alt="Hacktoberfest 2025 — Level 1 Badge" height="120"/>
+  </a>
 </p>
 
 <p align="center">
